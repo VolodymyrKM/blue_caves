@@ -4,16 +4,16 @@ Web test api project
 № |   base packages   
 ---| :---:
 1.| Poetry
-2. | FastAPI
-3. | Exasol
-4. | Docker Compose
-5. | Dependency-injector
-6. | PyJWT
-7. | SQLAlchemy 
+2.| FastAPI
+3.| Exasol
+4.| Docker Compose
+5.| Dependency-injector
+6.| PyJWT
+7.| SQLAlchemy 
 
-##Description
+## Description
 
-###1. Create web project with FastAPI.
+### 1. Create web project with FastAPI.
    * application should provide:
      * versioning (version1, version2)
      * Models:
@@ -28,11 +28,11 @@ Web test api project
         * Update book mandatory  **parameter**.
         * Upload author photo.
     
-###2. Connect Exasol DB with project using ORM (SQLAlchemy)
+### 2. Connect Exasol DB with project using ORM (SQLAlchemy)
 
-###3. Start project with Docker Compose
+### 3. Start project with Docker Compose
 
-###4. Test
+### 4. Test
     
 
 
