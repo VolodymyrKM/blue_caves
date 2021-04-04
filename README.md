@@ -32,7 +32,7 @@ Web test api project
 
 ###3. Start project with Docker Compose
 
-###4. Test project
+###4. Test
     
 
 
